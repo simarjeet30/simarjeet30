@@ -1,7 +1,7 @@
 <h1>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Simarjeet Kaur Bhatia</h1>
 
 [![Email Badge](https://img.shields.io/badge/-b.simarjeet123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b.simarjeet123@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simarjeet-kaur-bhatia-5857781b9))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simarjeet-kaur-bhatia-5857781b9)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/simarjeet_30/)
 
 I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from Jaypee Institute of Information and Technology 🏛. I'm an enthusiastic person  who is constantly eager to learn and collaborate across technologies and domains. 💡. I enjoy learning about new technologies and deploying them to address real-world challenges. ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. 
